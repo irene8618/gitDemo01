@@ -5,7 +5,7 @@ public class Test1 {
 		
 
   String name = "김태희"; 
-  int score = 75; 
+  int score = 78; 
   char grade = ' ';
   String branch_name = "BrahcnX";
       
@@ -25,7 +25,7 @@ public class Test1 {
          grade = 'F';
       }
       else { 
-         System.out.println("잘못된 점수입니다.");
+         System.out.println("잘못된 점수입니다.....");
       }
       
       System.out.println("이름:"+name+"\t점수 : "+score+"\t학점 : "+grade );
